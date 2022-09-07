@@ -15,4 +15,4 @@
   <li>Buzzer</li>
 </ul>
 
-Based on <a href="https://linuxhint.com/home-security-system-arduino-uno">this project</a>
+Based on <a href="https://linuxhint.com/home-security-system-arduino-uno">this project</a>.
